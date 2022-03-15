@@ -1,2 +1,0 @@
-# cosyne22
-PosterXplorer
